@@ -1,0 +1,3 @@
+This line is added in the remote clone project
+the master branch has been merged to dev branch
+good
